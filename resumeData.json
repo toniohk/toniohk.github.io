@@ -1,0 +1,292 @@
+{
+  "main": {
+    "name": "Tonio Hiraki",
+    "description": "Seeing how my work can bring so much value to my clients is what drives my work ethic. I always love helping people create a digital space that provides value.",
+    "image": "profilepic.png",
+    "bio": "For the last eight years, I've been working in the IT world as a team leader and developer in multiple languages and environments. My goal is always to understand your needs and objectives and to carefully consider what solution will work best for you and your customers. I can quickly help startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant UI/UX, modern front-end frameworks, scalable microservices, infrastructure modeling, smart contracts, cryptocurrency and AWS. With all that said, reach out and we can start crafting the website/web application/mobile application you have always dreamed of!",
+    "contactmessage": "Reach out by inviting me to your project. I look forward to it!",
+    "email": "toniohiraki@gmail.com",
+    "phone": "+1 (530) 334-6603",
+    "address": {
+      "street": "478-1284, Amami Nishi, Matsubara-shi",
+      "city": "Osaka",
+      "state": "Kansai",
+      "zip": "530-0034, Japan"
+    },
+    "website": "https://tonio.topdreamworld.com",
+    "resumedownload": "https://drive.google.com/file/d/1HIp2YeGEG_K4995C5C8TiL-6xoRpENxw",
+    "social": [
+      {
+        "name": "Gmail",
+        "url": "mailto:toniohiraki@gmail.com",
+        "className": "fa-brands fa-google"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/angelicsmile028",
+        "className": "fa-brands fa-telegram"
+      },
+      {
+        "name": "Skype",
+        "url": "https://join.skype.com/invite/vWuTVKaaENEA",
+        "className": "fa-brands fa-skype"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/tonio-hiraki-b24991225",
+        "className": "fa-brands fa-linkedin"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/toniohk",
+        "className": "fa-brands fa-github"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/16007730/toniohk",
+        "className": "fa-brands fa-stack-overflow"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@toniohiraki",
+        "className": "fa-brands fa-medium"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Toronto",
+        "degree": "Bachelor's degree",
+        "graduated": "Jul 2015",
+        "description": "I studied the Computer engineering."
+      }
+    ],
+    "work": [
+      {
+        "company": "LuckyChip",
+        "title": "Full-Stack Engineer (Website & Smart contracts)",
+        "years": "Sep 2021 - Mar 2022",
+        "description": "React.js, Ethers.js, Web3modal, Solidity, Erc20 token, Tokenomics, Smart contract, Binance Smart Chain"
+      },
+      {
+        "company": "Uniclix",
+        "title": "Full Stack Developer",
+        "years": "Jan 2020 - Sep 2021",
+        "description": "Develop UIs with JavaScript(React.js), HTML and CSS, Material UI. Created RESTful APIs for increased scalability of the application. Integrate Stripe payment gateway, social APIs"
+      },
+      {
+        "company": "Carrus",
+        "title": "Front End Developer",
+        "years": "Jan 2019 - Jan 2020",
+        "description": "Building frontend with Vue.js, Vuetify, Material Design Specification, Perfect Mobile. Responsive, HTML5, SAPP. Google Firebase (Authentication, Firestore, Realtime database, Functions, Storage), Stripe. AWS, Godaddy DNS, Nginx"
+      },      
+      {
+        "company": "Karma-Wax",
+        "title": "Full-Stack Engineer",
+        "years": "Feb 2017 - Aug 2018",
+        "description": "Server-side rendering with Next.js, frontend with Reactjs, TailwindCSS, Material UI. Android/iOS app with React Native. Integrate API with GraphQL, backend with Django. Integrate Wallet, Wax Blockchain, Crypto."
+      },
+      {
+        "company": "Portillos Restaurant",
+        "title": "Front End Developer",
+        "years": "Mar 2014 - Jul 2016",
+        "description": "Building the frontend with Angular.js 1.3.0. Building the mobile applications with Ionic. Introduced wireframing and information architecture concepts to increase team productivity."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React / Angular / Vue",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5 / CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript / TypeScript",
+        "level": "98%"
+      },
+      {
+        "name": "TailwindCSS / BootStrap / Sementic UI",
+        "level": "100%"
+      },
+      {
+        "name": "Node / Express / Nest",
+        "level": "94%"
+      },
+      {
+        "name": "RDBMS",
+        "level": "94%"
+      },
+      {
+        "name": "NoSQL",
+        "level": "90%"
+      },
+      {
+        "name": "Python / Djanog / FastAPI",
+        "level": "86%"
+      },
+      {
+        "name": "Java / Spring",
+        "level": "84%"
+      },
+      {
+        "name": "PHP / Laravel / CI",
+        "level": "96%"
+      },
+      {
+        "name": "Ruby/Rails",
+        "level": "82%"
+      },
+      {
+        "name": "React Native/Ionic",
+        "level": "90%"
+      },
+      {
+        "name": "Restful API",
+        "level": "94%"
+      },
+      {
+        "name": "GraphQL/Apollo/Hasura",
+        "level": "89%"
+      },
+      {
+        "name": "C/C++/C#/VB/VB.Net",
+        "level": "82%"
+      },
+      {
+        "name": "Golang/Gorilla/Gin",
+        "level": "86%"
+      },
+      {
+        "name": "Amazon Web Services",
+        "level": "88%"
+      },
+      {
+        "name": "GCP/Azure",
+        "level": "82%"
+      },
+      {
+        "name": "Agile methodoloies",
+        "level": "90%"
+      },
+      {
+        "name": "Blockchain/Cryptocurrency",
+        "level": "90%"
+      },
+      {
+        "name": "Solidity/Ethereum/Binance",
+        "level": "93%"
+      },
+      {
+        "name": "Rust/Cargo/Anchor/Solana",
+        "level": "82%"
+      },
+      {
+        "name": "Remix/Truffle/Hardhat",
+        "level": "94%"
+      },
+      {
+        "name": "NFT/Opensea",
+        "level": "93%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Uniclix app",
+        "category": "Social media management",
+        "image": "uniclix.png",
+        "url": "https://uniclixapp.com"
+      },
+      {
+        "title": "Carrus",
+        "category": "Coaching platform",
+        "image": "carrus.png",
+        "url": "https://carrus.io"
+      },
+      {
+        "title": "LuckyChip",
+        "category": "Casino Dapp",
+        "image": "luckychip.png",
+        "url": "https://luckychip.io"
+      },
+      {
+        "title": "Portillos",
+        "category": "Portillos Restaurant website",
+        "image": "portillos.png",
+        "url": "https://portillos.com"
+      },
+      {
+        "title": "the littles",
+        "category": "the littles NFT marketplace",
+        "image": "thelittles.png",
+        "url": "https://thelittles.io"
+      },
+      {
+        "title": "SportUnity",
+        "category": "Sport community site",
+        "image": "sportunity.png",
+        "url": "https://sportunity.com"
+      },
+      {
+        "title": "Babypunks",
+        "category": "NFT marketplace",
+        "image": "babypunks.png",
+        "url": "https://babypunks.com"
+      },
+      {
+        "title": "Deltafi",
+        "category": "The world's most efficient DEX",
+        "image": "deltafi.png",
+        "url": "https://deltafi.ai"
+      },
+      {
+        "title": "Odesd",
+        "category": "Odesd Ecommerce site",
+        "image": "odesd.png",
+        "url": "https://odesd2.com"
+      },
+      {
+        "title": "Leading dating",
+        "category": "Dating website for Ukrainian, Russian or Asian",
+        "image": "thedating.png",
+        "url": "https://thedatingcritic.com"
+      },
+      {
+        "title": "Bellevue",
+        "category": "Website for friends of Bellevue State Park",
+        "image": "bellevue.png",
+        "url": "https://friendsofbellevuestatepark.org"
+      },
+      {
+        "title": "Plantoys",
+        "category": "Website for USA toy company",
+        "image": "toy.png",
+        "url": "https://usa.plantoys.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tonio and the team of developers working on my project were AMAZING. Communication was always immediate and they understood the tasks. The development they did (Creating a custom website platform: front and back end) was excellent. They also created a Smart Contract and synced the Blockchain with my website to integrate transactions. They are very patient and attended to my requests immediately. This team is definitely a great one. After working with them for months, I highly recommend them.",
+        "user": "Graham Anderson"
+      },
+      {
+        "text": "He is probably the best web developer. His reviews speak for themselves, and I'm here to just add another one. He is experienced, takes a holistic approach, and is an invaluable asset to me and many others who have brought him on as a developer for their projects. If you need a developer for your web project, look no further.",
+        "user": "Shayne Mallard"
+      },
+      {
+        "text": "Amazing work, we will continue working together and definitely recommended for everything blockchain and smart contract related!",
+        "user": "Laurent Taylor"
+      },
+      {
+        "text": "Tonio went way beyond what i expected of him,came up with a novel approach that i never consider.he's hard working and delivered a complicated project way faster than I thought he would.i will definitely work with him again in the future as programmer with his work ethic and talent are extremely rare.",
+        "user": "Joseph Rowland"
+      }
+    ]
+  }
+}
